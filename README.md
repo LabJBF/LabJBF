@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Mac.Clover
+# 👋 Hey, I’m Clover
 
 Independent Developer • iOS Enthusiast • UI/UX Explorer
 
