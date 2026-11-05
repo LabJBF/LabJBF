@@ -1,5 +1,3 @@
-# 👋 Hey, I’m Clover
-
 Independent Developer • iOS Enthusiast • UI/UX Explorer
 
 I build experimental projects, explore the limits of Apple’s ecosystem, and create tools and interfaces that bring new ideas to life.
@@ -17,7 +15,7 @@ My focus is on iOS development, SwiftUI, system customization, virtualization co
 
 ## 🚀 Featured Projects
 
-### 🖥️ CloverVM
+### 🖥️ iVM
 
 An experimental virtualization and emulation app concept for iOS and iPadOS.
 
@@ -38,5 +36,3 @@ Explore what’s possible. Build what doesn’t exist. Keep pushing the boundari
 I’m here to learn by building, experiment with new ideas, and turn concepts into real projects.
 
 ### 💜 Thanks for stopping by!
-
-Built with curiosity, Swift, and a little bit of Clover magic. 🍀
